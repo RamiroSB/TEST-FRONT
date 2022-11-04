@@ -1,0 +1,41 @@
+.spacer {
+    margin-bottom: 50px;
+  }
+  .center {
+    text-align: center !important;
+  }
+  .dentroCirculo:hover {
+   color: #785aac !important;
+  }
+  
+  .circulo {
+    color: #ecf0f1;
+  }
+  .dentroCirculo {
+    color: #f2a11e !important;
+  }
+  .p-3col{
+    color: white !important;
+  }
+  
+  .h3-3col {
+    color: #f2a11e !important;
+    font-weight: bold;
+    font-size: 22px;
+  }
+  .p-3col {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 14px;
+  }
+
+  .center h2 {
+    color: #f2a11e !important;
+    font-size: 2.5em;
+    font-weight: bold;
+  }
+  
+  .bgRari {
+    background-color: #222;
+  }

@@ -1,0 +1,19 @@
+.contenedorServicios {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    max-width: 80%;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 2%;
+}
+
+.cardServicios {
+     width: 20rem;
+    align-items: center;
+    border-radius: 10px !important;
+}
+
+.botonServicios {
+    width: 100%;
+}
